@@ -1,0 +1,29 @@
+{
+  "name": "@cbana/i18n",
+  "version": "1.0.126",
+  "description": "i18n class in ts using json for lookup",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "i18n",
+    "translation",
+    "multilanguage",
+    "multi language",
+    "multi lang",
+    "multi-lang"
+  ],
+  "author": "cbana",
+  "devDependencies": {
+    "@types/jest": "^29.2.5",
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.3",
+    "typescript": "^4.7.4"
+  }
+}
